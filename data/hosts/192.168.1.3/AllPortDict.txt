@@ -1,0 +1,30 @@
+{"ifIndex": "1", "ifDescr": "InLoopBack0", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "2", "ifDescr": "NULL0", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "3", "ifDescr": "Console9/0/0", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "4", "ifDescr": "MEth0/0/1", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "5", "ifDescr": "Vlanif1", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "6", "ifDescr": "Vlanif100", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "7", "ifDescr": "Ethernet0/0/1", "ifAlisa": "[TO-LSW1-g0/0/2]", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "8", "ifDescr": "Ethernet0/0/2", "ifAlisa": "[TO-PC1-Test1]", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "9", "ifDescr": "Ethernet0/0/3", "ifAlisa": "[TO-PC2-Test2]", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "10", "ifDescr": "Ethernet0/0/4", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "11", "ifDescr": "Ethernet0/0/5", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "12", "ifDescr": "Ethernet0/0/6", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "13", "ifDescr": "Ethernet0/0/7", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "14", "ifDescr": "Ethernet0/0/8", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "15", "ifDescr": "Ethernet0/0/9", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "16", "ifDescr": "Ethernet0/0/10", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "17", "ifDescr": "Ethernet0/0/11", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "18", "ifDescr": "Ethernet0/0/12", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "19", "ifDescr": "Ethernet0/0/13", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "20", "ifDescr": "Ethernet0/0/14", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "21", "ifDescr": "Ethernet0/0/15", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "22", "ifDescr": "Ethernet0/0/16", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "23", "ifDescr": "Ethernet0/0/17", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "24", "ifDescr": "Ethernet0/0/18", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "25", "ifDescr": "Ethernet0/0/19", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "26", "ifDescr": "Ethernet0/0/20", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "27", "ifDescr": "Ethernet0/0/21", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "28", "ifDescr": "Ethernet0/0/22", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "29", "ifDescr": "GigabitEthernet0/0/1", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}
+{"ifIndex": "30", "ifDescr": "GigabitEthernet0/0/2", "ifAlisa": "No description", "Host": "192.168.1.3", "Hostname": "LSW2"}

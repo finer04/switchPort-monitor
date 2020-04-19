@@ -1,0 +1,5 @@
+{"ifIndex": "1", "ifDescr": "InLoopBack0", "ifAlisa": "HUAWEI, AR Series, InLoopBack0 Interface", "Host": "10.233.233.10", "Hostname": "AR1"}
+{"ifIndex": "2", "ifDescr": "NULL0", "ifAlisa": "HUAWEI, AR Series, NULL0 Interface", "Host": "10.233.233.10", "Hostname": "AR1"}
+{"ifIndex": "3", "ifDescr": "GigabitEthernet0/0/0", "ifAlisa": "[TO-Desktop-loopback-network]", "Host": "10.233.233.10", "Hostname": "AR1"}
+{"ifIndex": "4", "ifDescr": "GigabitEthernet0/0/1", "ifAlisa": "[TO-LSW1]", "Host": "10.233.233.10", "Hostname": "AR1"}
+{"ifIndex": "5", "ifDescr": "GigabitEthernet0/0/2", "ifAlisa": "HUAWEI, AR Series, GigabitEthernet0/0/2 Interface", "Host": "10.233.233.10", "Hostname": "AR1"}
